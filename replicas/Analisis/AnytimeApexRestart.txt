@@ -1,0 +1,86 @@
+-s 178689 -g 1476 --alg AnytimeApexRestart --verbal 1 --logsolutions 1
+../maps/NY-m.txt
+../maps/NY-t.txt
+../maps/NY-d.txt
+Graph Size: 264347
+
+
+eps:0.1
+elapse time: 0.638922
+exp: 649949,   pruned: 299868
+
+eps:0.0666667
+elapse time: 1.37699
+exp: 908674,   pruned: 426369
+
+eps:0.0444444
+elapse time: 2.39894
+exp: 1170738,   pruned: 558986
+
+eps:0.0296296
+elapse time: 3.57135
+exp: 1362400,   pruned: 592190
+
+eps:0.0197531
+elapse time: 4.87307
+exp: 1513388,   pruned: 662528
+
+eps:0.0131687
+elapse time: 6.5395
+exp: 1808943,   pruned: 702738
+
+eps:0.00877915
+elapse time: 8.70774
+exp: 2127380,   pruned: 774907
+
+eps:0.00585277
+elapse time: 11.6384
+exp: 2636843,   pruned: 907625
+
+eps:0.00390184
+elapse time: 15.9938
+exp: 3393431,   pruned: 1025960
+
+eps:0.00260123
+elapse time: 21.7251
+exp: 4022154,   pruned: 1069307
+
+eps:0.00173415
+elapse time: 28.9063
+exp: 4669620,   pruned: 1053233
+
+eps:0.0011561
+elapse time: 39.59
+exp: 5933297,   pruned: 1091893
+
+eps:0.000770735
+elapse time: 54.5768
+exp: 7348208,   pruned: 1097855
+
+eps:0.000513823
+elapse time: 77.2572
+exp: 9342787,   pruned: 1137681
+
+eps:0.000342549
+elapse time: 109.01
+exp: 11392459,   pruned: 1164206
+
+eps:0.000228366
+elapse time: 146.617
+exp: 12152391,   pruned: 927408
+
+eps:0.000152244
+elapse time: 198.268
+exp: 14640336,   pruned: 815515
+
+eps:0.000101496
+elapse time: 261.378
+exp: 15960793,   pruned: 727159
+
+eps:6.76639e-05
+elapse time: 301.005
+exp: 7531150,   pruned: 296494Work took 0.000000 seconds
+Node expansion: 108564941
+Runtime: 303.355
+-----End Single Example-----
+vector comparison cnt: 232984532
