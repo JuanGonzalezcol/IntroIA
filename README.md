@@ -19,6 +19,7 @@ Publicación: [https://ojs.aaai.org/index.php/SOCS/article/view/31556](https://o
 - **Carpeta "replicas"**: Código suministrado del repositorio de GitHub de los autores. [Repositorio original](https://github.com/HanZhang39/MultiObjectiveSearch)
 - **Carpeta "Análisis"**: Contiene un archivo de Colab con el análisis de error de aproximación de los logs de las ejecuciones de los algoritmos.
 - **transmilenio_map y main**: Contiene la implementación de A-Apex para rutas en la red de transporte TransMilenio.
+- **Multiobjective.pdf** : Documento de Presentación, explicando pruebas e implementación. 
 
 ## Deployment
 
