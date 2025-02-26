@@ -260,7 +260,7 @@ void AnytimeApex<N>::solve(unsigned int time_limit){
     start_time = std::clock();
     search.set_start_time(start_time);
 
-    double eps = 0.2;
+    double eps = 0.1;
 
     bool restart = restart_from_scratch;
 
