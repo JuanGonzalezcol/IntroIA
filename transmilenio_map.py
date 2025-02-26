@@ -88,7 +88,7 @@ def create_transmilenio_map():
         "Sevillana (Calle 6)": 143, "Madelena": 144, "Perdomo": 145, "Portal Bosa": 146
     }
 
-    # Define edges (invented values)
+    # Define edges
     edges = [
         # Troncal NQS
         ("Portal Norte", "Toberin", [8, 4, 120], 0.1), ("Toberin", "Calle 161", [7, 3, 110], 0.2),
